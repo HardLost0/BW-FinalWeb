@@ -190,3 +190,10 @@ input[type=submit]:hover {
     background-color: #0fa3cb;
     padding: 20px;
 }
+
+footer{
+    position: absolute;
+    z-index: 1;
+    top: 1135px;
+    left: 850px;
+}
